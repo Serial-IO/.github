@@ -17,8 +17,8 @@ This library provides an interface for the communication with serial devices and
 
 ## Overview
 The library consists of:
-- The Core [Serial-Link](https://github.com/Serial-Link/Serial-Link) library
-- The low level [C++ bindings](https://github.com/Serial-Link/Serial-Link)
+- The Core [Serial-Link](https://github.com/Serial-Link/Serial-Link) library (Source Code for Serial library)
+- The low level [C++ bindings](https://github.com/Serial-Link/Serial-Link) (Source Code for C++ low level bindings)
 
 ## Credits
 
