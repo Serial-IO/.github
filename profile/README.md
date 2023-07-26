@@ -1,5 +1,4 @@
 # Serial
-[![Build binaries]](https://github.com/TypeScriptPlayground/Serial/actions/workflows/build.yml)
 
 <a href="https://deno.land"><img align="right" src="https://deno.land/logo.svg" height="150px" alt="the deno mascot dinosaur standing in the rain"></a>
 
