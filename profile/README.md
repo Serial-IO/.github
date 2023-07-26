@@ -15,6 +15,11 @@ This library provides an interface for the communication with serial devices and
 - Uses no third party modules.
 - Works on multiple different operating systems.
 
+## Overview
+The library consists of:
+- The Core Serial-Link library
+- The low level C++ bindings
+
 ## Credits
 
 - Big thanks goes out to [@Katze719](https://github.com/Katze719) who wrote most of the C++ files and functions!
