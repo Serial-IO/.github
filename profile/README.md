@@ -20,6 +20,9 @@ The library consists of:
 - The Core [Serial-Link](https://github.com/Serial-Link/Serial-Link) library (Source Code for TypeScript Serial library)
 - The low level [C++ bindings](https://github.com/Serial-Link/CPP-Bindings) (Source Code for C++ low level bindings)
 
+## Documentation
+Check out the [Wiki]() section on how to use the library.
+
 ## Credits
 
 - Big thanks goes out to [@Katze719](https://github.com/Katze719) who wrote most of the C++ files and functions!
