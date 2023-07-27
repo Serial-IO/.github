@@ -27,6 +27,7 @@ Check out the [Wiki]() section on how to use the library.
 
 - Big thanks goes out to [@Katze719](https://github.com/Katze719) who wrote most of the C++ files and functions!
 - Thanks to [@AapoAlas](https://github.com/aapoalas) for the great support and help on the [Deno Discord](https://discord.gg/deno)!
+- Thanks to [@Dj](https://github.com/DjDeveloperr) for the inspiration on how to write such a library!
 
 ## Licence
 Apache-2.0. Check [LICENSE](./LICENSE) for more details. Feel free to contribute to this project.
