@@ -21,7 +21,8 @@ The library consists of:
 - The low level [C++ bindings](https://github.com/Serial-Link/CPP-Bindings) (Source Code for C++ low level bindings)
 
 ## Documentation
-Check out the [Wiki]() section on how to use the library.
+- [Serial-Link](https://github.com/Serial-Link/Serial-Link): Check out the [Wiki](https://github.com/Serial-Link/Serial-Link/wiki) section on how to use the TypeScript library.
+- [C++ bindings](https://github.com/Serial-Link/CPP-Bindings): Check out the [Wiki](https://github.com/Serial-Link/CPP-Bindings/wiki) section on how to use the C++ bindings.
 
 ## Credits
 
@@ -30,6 +31,9 @@ Check out the [Wiki]() section on how to use the library.
 - Thanks to [@Dj](https://github.com/DjDeveloperr) for the inspiration on how to write such a library!
 
 ## Licence
-Apache-2.0. Check [LICENSE](./LICENSE) for more details. Feel free to contribute to this project.
+- [Serial-Link](https://github.com/Serial-Link/Serial-Link): Apache-2.0. Check [LICENSE](https://github.com/Serial-Link/Serial-Link/blob/main/LICENSE) for more details.
+- [C++ bindings](https://github.com/Serial-Link/CPP-Bindings): Apache-2.0. Check [LICENSE](https://github.com/Serial-Link/CPP-Bindings/blob/main/LICENSE) for more details.
+
+Feel free to contribute to this project.
 
 Copyright 2023 © Max
