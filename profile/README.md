@@ -25,7 +25,6 @@ The library consists of:
 - [C++ bindings](https://github.com/Serial-Link/CPP-Bindings): Check out the [Wiki](https://github.com/Serial-Link/CPP-Bindings/wiki) section on how to use the C++ bindings.
 
 ## Credits
-
 - Big thanks goes out to [@Katze719](https://github.com/Katze719) who wrote most of the C++ files and functions!
 - Thanks to [@AapoAlas](https://github.com/aapoalas) for the great support and help on the [Deno Discord](https://discord.gg/deno)!
 - Thanks to [@Dj](https://github.com/DjDeveloperr) for the inspiration on how to write such a library!
