@@ -1,6 +1,6 @@
 # Serial-Link
 
-<a href="https://deno.land"><img align="right" src="https://github.com/Serial-Link/.github/assets/profile.svg" height="150px" alt="the serial port standing in the rain"></a>
+<a href="https://deno.land"><img align="right" src="https://github.com/Serial-Link/.github/blob/main/assets/profile.svg" height="150px" alt="the serial port standing in the rain"></a>
 
 A [serial](https://en.wikipedia.org/wiki/Serial_communication) library written in TypeScript for [Deno](https://deno.land) without any third party modules.
 
