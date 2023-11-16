@@ -23,7 +23,14 @@ This library provides an interface for the communication with serial devices and
 - Set timeouts for both reading and writing.
 - All functions are async.
 - Uses no third party modules.
-- Works on multiple different operating systems.
+- Works on multiple different operating systems (check [compatibility](#compatibility) for mor info).
+
+## Compatibility
+| OS      | Tested version          | Current state |
+|---------|-------------------------|---------------|
+| Windows | Windows 10 (x64)        | in progress   |
+| Linux   | Ubuntu Server 22.04 LTS | in progress   |
+| Mac     | -                       | planned       |
 
 ## Overview
 The library consists of:
