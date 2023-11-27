@@ -55,4 +55,4 @@ The library consists of:
 
 Feel free to contribute to this project.
 
-Copyright 2023 © Max & Paul
+Copyright 2023 © Paul & Max
