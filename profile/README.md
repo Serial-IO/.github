@@ -41,6 +41,9 @@ The library consists of:
 - [Serial-Link](https://github.com/Serial-Link/Serial-Link): Check out the [Wiki](https://github.com/Serial-Link/Serial-Link/wiki) section on how to use the TypeScript library.
 - [C++ bindings](https://github.com/Serial-Link/CPP-Bindings): Check out the [Wiki](https://github.com/Serial-Link/CPP-Bindings/wiki) section on how to use the C++ bindings.
 
+## Community/Discussions
+- 
+
 ## Credits
 - Big thanks goes out to [@Katze719](https://github.com/Katze719) who wrote most of the C++ files and functions!
 - Thanks to [@AapoAlas](https://github.com/aapoalas) for the great support and help on the [Deno Discord](https://discord.gg/deno)!
