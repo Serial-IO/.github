@@ -42,7 +42,7 @@ The library consists of:
 - [C++ bindings](https://github.com/Serial-Link/CPP-Bindings): Check out the [Wiki](https://github.com/Serial-Link/CPP-Bindings/wiki) section on how to use the C++ bindings.
 
 ## Community/Discussions
-- Provide feedback and suggestions for the Serial-Link library [here]().
+- Provide feedback and suggestions for the Serial-Link library [here](https://github.com/orgs/Serial-Link/discussions).
 
 ## Credits
 - Big thanks goes out to [@Katze719](https://github.com/Katze719) who wrote most of the C++ files and functions!
