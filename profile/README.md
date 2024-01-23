@@ -55,4 +55,4 @@ Get in touch with the community [here](https://github.com/orgs/Serial-Link/discu
 
 Feel free to contribute to this project.
 
-Copyright 2023 © Paul & Max
+Copyright 2024 © Paul & Max
