@@ -50,7 +50,7 @@ Get in touch with the community [here](https://github.com/orgs/Serial-Link/discu
 - Thanks to [@Dj](https://github.com/DjDeveloperr) for the inspiration on how to write such a library!
 
 ## Licence
-- [Serial-Link](https://github.com/Serial-Link/Serial): GPLv2.0. Check [LICENSE](https://github.com/Serial-Link/Serial/blob/main/LICENSE) for more details.
+- [Serial](https://github.com/Serial-Link/Serial): GPLv2.0. Check [LICENSE](https://github.com/Serial-Link/Serial/blob/main/LICENSE) for more details.
 - [C++ bindings](https://github.com/Serial-Link/CPP-Bindings): GPLv2.0. Check [LICENSE](https://github.com/Serial-Link/CPP-Bindings/blob/main/LICENSE) for more details.
 
 Feel free to contribute to this project.
