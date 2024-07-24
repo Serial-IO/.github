@@ -39,7 +39,7 @@ The library consists of:
 
 ## Documentation
 - [Serial](https://github.com/Serial-Link/serial): Check out the [Wiki](https://github.com/Serial-Link/serial/wiki) section on how to use the TypeScript library.
-- [C++ bindings](https://github.com/Serial-Link/CPP-Bindings): Check out the [Wiki](https://github.com/Serial-Link/CPP-Bindings/wiki) section on how to use the C++ bindings.
+- [C++ bindings](https://github.com/Serial-Link/cpp-bindings): Check out the [Wiki](https://github.com/Serial-Link/cpp-bindings/wiki) section on how to use the C++ bindings.
 
 ## Community/Discussions
 Get in touch with the community [here](https://github.com/orgs/Serial-Link/discussions) or provide feedback and suggestions for the library.
@@ -51,7 +51,7 @@ Get in touch with the community [here](https://github.com/orgs/Serial-Link/discu
 
 ## Licence
 - [Serial](https://github.com/Serial-Link/serial): GPLv2.0. Check [LICENSE](https://github.com/Serial-Link/serial/blob/main/LICENSE) for more details.
-- [C++ bindings](https://github.com/Serial-Link/CPP-Bindings): GPLv2.0. Check [LICENSE](https://github.com/Serial-Link/CPP-Bindings/blob/main/LICENSE) for more details.
+- [C++ bindings](https://github.com/Serial-Link/cpp-bindings): GPLv2.0. Check [LICENSE](https://github.com/Serial-Link/cpp-bindings/blob/main/LICENSE) for more details.
 
 Feel free to contribute to this project.
 
