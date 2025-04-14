@@ -55,4 +55,4 @@ Get in touch with the community [here](https://github.com/orgs/Serial-IO/discuss
 
 Feel free to contribute to this project.
 
-Copyright 2024 © Paul & Max
+Copyright 2025 © Paul & Max
