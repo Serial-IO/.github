@@ -35,7 +35,7 @@ This library provides an interface for the communication with serial devices and
 ## Overview
 The library consists of:
 - The Core [Serial](https://github.com/Serial-IO/serial) library (Source Code for TypeScript Serial library)
-- The low level [C++ bindings](https://github.com/Serial-IO/CPP-Bindings) (Source Code for C++ low level bindings)
+- The low level [C++ bindings](https://github.com/Serial-IO/cpp-bindings) (Source Code for C++ low level bindings)
 
 ## Documentation
 - [Serial](https://github.com/Serial-IO/serial): Check out the [Wiki](https://github.com/Serial-IO/serial/wiki) section on how to use the TypeScript library.
