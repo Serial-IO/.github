@@ -9,10 +9,7 @@ A [serial](https://en.wikipedia.org/wiki/Serial_communication) library written i
 
 This library provides an interface for the communication with serial devices and **doesn't use any third party modules**. It uses C++ functions which are compiled to [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly). These functions are then loaded by Deno to establish a serial connection and talk to the devices.
 
-> <picture>
->   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/info.svg">
->   <img alt="Info" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
-> </picture><br>
+> [!NOTE]
 >
 > We are currently migrating from our [old repository](https://github.com/TypeScriptPlayground/Serial).
 
