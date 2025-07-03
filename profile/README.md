@@ -39,7 +39,7 @@ The library consists of:
 
 ## Documentation
 - [Serial](https://github.com/Serial-IO/serial): Check out the [Wiki](https://github.com/Serial-IO/serial/wiki) section on how to use the TypeScript library.
-- [C++ bindings](https://github.com/Serial-IO/cpp-bindings-core): Check out the [Wiki](https://github.com/Serial-IO/cpp-bindings/wiki) section on how to use the C++ bindings.
+- [C++ bindings](https://github.com/Serial-IO/cpp-bindings-core): Check out the [Wiki](https://github.com/Serial-IO/cpp-bindings-core/wiki) section on how to use the C++ bindings.
 
 ## Community/Discussions
 Get in touch with the community [here](https://github.com/orgs/Serial-IO/discussions) or provide feedback and suggestions for the library.
@@ -51,7 +51,7 @@ Get in touch with the community [here](https://github.com/orgs/Serial-IO/discuss
 
 ## Licence
 - [Serial](https://github.com/Serial-IO/serial): GPLv2.0. Check [LICENSE](https://github.com/Serial-IO/serial/blob/main/LICENSE) for more details.
-- [C++ bindings](https://github.com/Serial-IO/cpp-bindings): GPLv2.0. Check [LICENSE](https://github.com/Serial-IO/cpp-bindings/blob/main/LICENSE) for more details.
+- [C++ bindings](https://github.com/Serial-IO/cpp-bindings-core): GPLv2.0. Check [LICENSE](https://github.com/Serial-IO/cpp-bindings-core/blob/main/LICENSE) for more details.
 
 Feel free to contribute to this project.
 
