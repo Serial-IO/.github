@@ -35,10 +35,10 @@ This library provides an interface for the communication with serial devices and
 ## Overview
 The library consists of:
 - The [TypeScript Serial](https://github.com/Serial-IO/serial) library (Source Code for TypeScript Serial library)
-- The higher level [C++ bindings (Windows)](https://github.com/Serial-IO/cpp-bindings-windows) (Source Code for C++ higher level bindings for Windows platforms based on [C++ bindings (Core)](https://github.com/Serial-IO/cpp-bindings-core))
-- The higher level [C++ bindings (Linux)](https://github.com/Serial-IO/cpp-bindings-linux) (Source Code for C++ higher level bindings for Linux platforms based on [C++ bindings (Core)](https://github.com/Serial-IO/cpp-bindings-core))
-- The higher level [C++ bindings (MacOS)](https://github.com/Serial-IO/cpp-bindings-macos) (Source Code for C++ higher level bindings for MacOS platforms based on [C++ bindings (Core)](https://github.com/Serial-IO/cpp-bindings-core))
 - The low level [C++ bindings (Core)](https://github.com/Serial-IO/cpp-bindings-core) (Source Code for C++ low level bindings)
+- The higher level [C++ bindings (Windows)](https://github.com/Serial-IO/cpp-bindings-windows) (Source Code for C++ higher level bindings for Windows platforms)
+- The higher level [C++ bindings (Linux)](https://github.com/Serial-IO/cpp-bindings-linux) (Source Code for C++ higher level bindings for Linux platforms)
+- The higher level [C++ bindings (MacOS)](https://github.com/Serial-IO/cpp-bindings-macos) (Source Code for C++ higher level bindings for MacOS platforms)
 
 ## Documentation
 - [Serial](https://github.com/Serial-IO/serial): Check out the [Wiki](https://github.com/Serial-IO/serial/wiki) section on how to use the TypeScript library.
