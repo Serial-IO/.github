@@ -1,14 +1,13 @@
 # Serial
 
-<a href="https://deno.land"><img align="right" src="https://github.com/Serial-IO/.github/blob/main/assets/profile.svg" height="150px" alt="the serial port standing in the rain"></a>
+<a href="https://deno.land"><img align="right" src="https://github.com/Serial-IO/.github/blob/main/assets/profile.svg" height="140px" alt="the serial port standing in the rain"></a>
 
 [![Lint](https://github.com/Serial-IO/serial/actions/workflows/lint.yml/badge.svg)](https://github.com/Serial-IO/serial/actions/workflows/lint.yml)
 [![Unit Tests](https://github.com/Serial-IO/serial/actions/workflows/unit_tests.yml/badge.svg)](https://github.com/Serial-IO/serial/actions/workflows/unit_tests.yml)
 
 A [serial](https://en.wikipedia.org/wiki/Serial_communication) library written in TypeScript for [Deno](https://deno.land) without any third party modules.
 
-This library provides an interface for the communication with serial devices and **doesn't use any third party modules**. It uses C++ functions which are compiled to dynamic libraries.
-These functions are then loaded by Deno to establish a serial connection and talk to the devices.
+This library provides an interface for the communication with serial devices and **doesn't use any third party modules**. It uses C++ functions which are compiled to dynamic libraries. These functions are then loaded by Deno to establish a serial connection and talk to the devices.
 
 > [!NOTE]
 >
