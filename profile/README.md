@@ -1,6 +1,6 @@
 # Serial
 
-<a href="https://deno.land"><img align="right" src="https://github.com/Serial-IO/.github/blob/main/assets/profile.svg" width="150px" alt="the serial port standing in the rain"></a>
+<a href="https://deno.land"><img align="right" src="https://github.com/Serial-IO/.github/blob/main/assets/profile.svg" width="180px" alt="the serial port standing in the rain"></a>
 
 [![Lint](https://github.com/Serial-IO/serial/actions/workflows/lint.yml/badge.svg)](https://github.com/Serial-IO/serial/actions/workflows/lint.yml)
 [![Unit Tests](https://github.com/Serial-IO/serial/actions/workflows/unit_tests.yml/badge.svg)](https://github.com/Serial-IO/serial/actions/workflows/unit_tests.yml)
