@@ -7,7 +7,8 @@
 
 A [serial](https://en.wikipedia.org/wiki/Serial_communication) library written in TypeScript for [Deno](https://deno.land) without any third party modules.
 
-This library provides an interface for the communication with serial devices and **doesn't use any third party modules**. It uses C++ functions which are compiled to dynamic libraries. These functions are then loaded by Deno to establish a serial connection and talk to the devices.
+This library provides an interface for the communication with serial devices and **doesn't use any third party modules**. It uses C++ functions which are compiled to dynamic libraries.
+These functions are then loaded by Deno to establish a serial connection and talk to the devices.
 
 > [!NOTE]
 >
