@@ -18,7 +18,7 @@ This library provides an interface for the communication with serial devices and
 - Create multiple serial connections at the same time.
 - List available ports and their properties (if available).
 - Set timeouts for both reading and writing.
-- All functions are async.
+- Async functions.
 - Uses no third party modules.
 - Works on multiple different operating systems (check [compatibility](#compatibility) for mor info).
 
