@@ -39,9 +39,10 @@ The library consists of:
 
 ## Documentation
 - [Serial](https://github.com/Serial-IO/serial): Check out the [Wiki](https://github.com/Serial-IO/serial/wiki) section on how to use the TypeScript library.
-- [C++ bindings (Windows)](https://github.com/Serial-IO/cpp-bindings-windows): Check out the [Wiki](https://github.com/Serial-IO/cpp-bindings-windows/wiki) section on how to use the C++ bindings.
-- [C++ bindings (Linux)](https://github.com/Serial-IO/cpp-bindings-linux): Check out the [Wiki](https://github.com/Serial-IO/cpp-bindings-linux/wiki) section on how to use the C++ bindings.
-- [C++ bindings (MacOS)](https://github.com/Serial-IO/cpp-bindings-macos): Check out the [Wiki](https://github.com/Serial-IO/cpp-bindings-macos/wiki) section on how to use the C++ bindings.
+- [C++ Core](https://github.com/Serial-IO/cpp-core): Check out the [Wiki](https://github.com/Serial-IO/cpp-core/wiki) section on how to use the C++ Core.
+- [C++ bindings (Windows)](https://github.com/Serial-IO/cpp-bindings-windows): Check out the [Wiki](https://github.com/Serial-IO/cpp-bindings-windows/wiki) section on how to use the C++ bindings for Windows.
+- [C++ bindings (Linux)](https://github.com/Serial-IO/cpp-bindings-linux): Check out the [Wiki](https://github.com/Serial-IO/cpp-bindings-linux/wiki) section on how to use the C++ bindings for Linux.
+- [C++ bindings (MacOS)](https://github.com/Serial-IO/cpp-bindings-macos): Check out the [Wiki](https://github.com/Serial-IO/cpp-bindings-macos/wiki) section on how to use the C++ bindings for MacOS.
 
 ## Community/Discussions
 Get in touch with the community [here](https://github.com/orgs/Serial-IO/discussions) or provide feedback and suggestions for the library.
