@@ -37,7 +37,7 @@ The library consists of:
 - The higher level [C++ bindings (Linux)](https://github.com/Serial-IO/cpp-bindings-linux) (Source Code for C++ higher level bindings for Linux platforms)
 - The higher level [C++ bindings (MacOS)](https://github.com/Serial-IO/cpp-bindings-macos) (Source Code for C++ higher level bindings for MacOS platforms)
 
-## Documentation
+## Documentation/Examples
 - [Serial](https://github.com/Serial-IO/serial): Check out the [Wiki](https://github.com/Serial-IO/serial/wiki) section on how to use the TypeScript library.
 - [C++ Core](https://github.com/Serial-IO/cpp-core): Check out the [Wiki](https://github.com/Serial-IO/cpp-core/wiki) section on how to use the C++ Core.
 - [C++ bindings (Windows)](https://github.com/Serial-IO/cpp-bindings-windows): Check out the [Wiki](https://github.com/Serial-IO/cpp-bindings-windows/wiki) section on how to use the C++ bindings for Windows.
