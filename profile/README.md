@@ -53,8 +53,8 @@ Get in touch with the community [here](https://github.com/orgs/Serial-IO/discuss
 - Thanks to [@Dj](https://github.com/DjDeveloperr) for the inspiration on how to write such a library!
 
 ## Licence
-- [Serial](https://github.com/Serial-IO/serial): GPLv2.0, Check [LICENSE](https://github.com/Serial-IO/serial/blob/main/LICENSE) for more details.
-- [C++ Core](https://github.com/Serial-IO/cpp-core): GPLv2.0, Check [LICENSE](https://github.com/Serial-IO/cpp-core/blob/main/LICENSE) for more details.
+- [Serial](https://github.com/Serial-IO/serial): GPLv2.0 Check [LICENSE](https://github.com/Serial-IO/serial/blob/main/LICENSE) for more details.
+- [C++ Core](https://github.com/Serial-IO/cpp-core): GPLv2.0 Check [LICENSE](https://github.com/Serial-IO/cpp-core/blob/main/LICENSE) for more details.
 
 Feel free to contribute to this project.
 
