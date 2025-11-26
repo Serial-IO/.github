@@ -57,5 +57,3 @@ Get in touch with the community [here](https://github.com/orgs/Serial-IO/discuss
 - [C++ Core](https://github.com/Serial-IO/cpp-core): `Apache-2.0` Check [LICENSE](https://github.com/Serial-IO/cpp-core/blob/main/LICENSE) for more details.
 
 Feel free to contribute to this project.
-
-Copyright 2025 © Paul & Max
