@@ -47,6 +47,8 @@ The library consists of:
 ## Community/Discussions
 Get in touch with the community [here](https://github.com/orgs/Serial-IO/discussions) or provide feedback and suggestions for the library.
 
+Found a bug? Feel free to [open an issue](https://github.com/Serial-IO/serial/issues/new?template=bug_report.yml).
+
 ## Credits
 - Big thanks goes out to [@Katze719](https://github.com/Katze719) who wrote most of the C++ files and functions!
 - Thanks to [@AapoAlas](https://github.com/aapoalas) for the great support and help on the [Deno Discord](https://discord.gg/deno)!
