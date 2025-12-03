@@ -55,7 +55,7 @@ Found a bug? Feel free to [open an issue](https://github.com/Serial-IO/serial/is
 - Thanks to [@Dj](https://github.com/DjDeveloperr) for the inspiration on how to write such a library!
 
 ## Licence
-- [Serial](https://github.com/Serial-IO/serial): `GPLv2.0` Check [LICENSE](https://github.com/Serial-IO/serial/blob/main/LICENSE) for more details.
+- [Serial](https://github.com/Serial-IO/serial): `GPLv2.1` Check [LICENSE](https://github.com/Serial-IO/serial/blob/main/LICENSE) for more details.
 - [C++ Core](https://github.com/Serial-IO/cpp-core): `Apache-2.0` Check [LICENSE](https://github.com/Serial-IO/cpp-core/blob/main/LICENSE) for more details.
 
 Feel free to contribute to this project.
