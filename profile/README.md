@@ -51,7 +51,7 @@ Found a bug? Feel free to [open an issue](https://github.com/Serial-IO/serial/is
 
 ## Credits
 - Big thanks goes out to [@Katze719](https://github.com/Katze719) who wrote most of the C++ files and functions!
-- Thanks to [@AapoAlas](https://github.com/aapoalas) for the great support and help on the [Deno Discord](https://discord.gg/deno)!
+- Thanks to [@AapoAlas](https://github.com/aapoalas) any many others for the great support and help on the [Deno Discord](https://discord.gg/deno)!
 - Thanks to [@Dj](https://github.com/DjDeveloperr) for the inspiration on how to write such a library!
 
 ## Licence
