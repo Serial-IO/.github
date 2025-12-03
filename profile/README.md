@@ -20,7 +20,7 @@ This library provides an interface for the communication with serial devices and
 - Set timeouts for both reading and writing.
 - Async functions.
 - Uses no third party modules.
-- Works on multiple different operating systems (check [compatibility](#compatibility) for mor info).
+- Works on multiple different operating systems (check [compatibility](#compatibility) for more info).
 
 ## Compatibility
 | OS      | Tested version          | Current state |
