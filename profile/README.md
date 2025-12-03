@@ -23,11 +23,11 @@ This library provides an interface for the communication with serial devices and
 - Works on multiple different operating systems (check [compatibility](#compatibility) for more info).
 
 ## Compatibility
-| OS      | Tested version          | Current state |
-|---------|-------------------------|---------------|
-| Windows | Windows 10 (x64)        | in progress   |
-| Linux   | Ubuntu Server 22.04 LTS | in progress   |
-| MacOS   | -                       | planned       |
+| OS      | Tested version          | Current state                           |
+|---------|-------------------------|-----------------------------------------|
+| Windows | Windows 10 (x64)        | in progress                             |
+| Linux   | Ubuntu Server 22.04 LTS | in progress                             |
+| MacOS   | -                       | planned (contributions are appreciated) |
 
 ## Overview
 The library consists of:
